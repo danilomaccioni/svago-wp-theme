@@ -1,0 +1,33 @@
+/*
+* Theme Name: svago
+* Theme URI: https://github.com/danilomaccioni/svago-wp-theme
+* Description: Wordpress native SVG theme
+* Tags: SVG, responsive, featured image, favicon
+* Version: 0.1
+* Author: Danilo Maccioni
+* Text Domanin: svago
+* Domain path: /i18n
+*/
+
+svg {
+	font-family: sans-serif;
+	font-size:10px;
+}
+
+#header_txt {
+	fill: #39c;
+}
+
+#header_txt,
+#page_title {
+	font-size:3em;
+}
+
+#page_content{
+	font-size:1em;
+	word-spacing:.2em;
+}
+
+#slide_away {
+	cursor: col-resize;
+}
